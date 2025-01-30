@@ -1,3 +1,7 @@
+## Project COntributro
+- Name Goes here
+- Martic Number goes Here
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
@@ -20,3 +24,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Project Structure
 - `Calcuator with GUI`: Based on Swing, located in the `src/calculator` Directory
 - `Command Line Based Calculator`: Utilized the scanner package, located in the `src` Directory 
+
+
+
+![Calculator Image](https://highvoltagetrack.com/wp-content/uploads/2025/01/Screenshot-from-2025-01-31-00-36-28.png)
