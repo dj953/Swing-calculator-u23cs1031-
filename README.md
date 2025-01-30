@@ -1,4 +1,4 @@
-## Project COntributro
+## Project Contributor
 - Name Goes here
 - Martic Number goes Here
 
