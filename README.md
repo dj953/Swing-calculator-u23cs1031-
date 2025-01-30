@@ -16,3 +16,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+## Project Structure
+- `Calcuator with GUI`: Based on Swing, located in the `src/calculator` Directory
+- `Command Line Based Calculator`: Utilized the scanner package, located in the `src` Directory 
