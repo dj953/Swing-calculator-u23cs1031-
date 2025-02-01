@@ -1,6 +1,6 @@
 ## Project Contributor
-- Name Goes here
-- Martic Number goes Here
+- Dawam James Na'andat
+- u23cs1031
 
 ## Getting Started
 
